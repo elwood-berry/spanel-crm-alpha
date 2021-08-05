@@ -1,3 +1,2 @@
-# esbcore-ryfnac
+# Sliding Panel | CRM v.alpha  
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/esbcore-ryfnac)

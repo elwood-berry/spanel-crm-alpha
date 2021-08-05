@@ -1,5 +1,5 @@
 /*
-APPLICATION NAME GOES HERE
+SLIDING PANEL | CRM v.alpha
 Author: 'me@elwoodberry.com'
 This code is brought to you by Elwood Berry @www.elwoodberry.com 
 */
