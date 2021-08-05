@@ -5,6 +5,16 @@ This code is brought to you by Elwood Berry @www.elwoodberry.com
 */
 
 //
+.advance-mat-cell {
+  cursor: pointer;
+
+  &:hover {
+    background-color: aqua;
+  }
+  &:active {
+    background-color: rgb(0, 255, 76);
+  }
+}
 
 /*
 -------------------------------------------------
