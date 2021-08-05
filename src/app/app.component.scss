@@ -4,6 +4,28 @@ Author: 'me@elwoodberry.com'
 This code is brought to you by Elwood Berry @www.elwoodberry.com 
 */
 
+// VARIABLES
+$advance-white: #ffffff;
+$advance-DDD: #dddddd;
+
+// -------------------------------------
+
+/* 
+BASE COMPONENT  
+Contains the base and two columns as its children.
+*/
+.advance-base {
+  background-color: $advance-white;
+  width: 100%;
+
+  .left-column {
+    border-right: 1px solid $advance-DDD;
+  }
+
+  .right-column {
+  }
+}
+
 //
 .advance-mat-cell {
   cursor: pointer;
