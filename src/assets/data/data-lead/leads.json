@@ -1,46 +1,4 @@
 [{
-	"leadId": 0,
-	"first_name": "John",
-	"last_name": "Doe",
-	"title": "Janitor",
-	"department": "Custodian",
-	"account_name": "Elaine Benes",
-	"sales_rep": "George Costanza",
-	"email": "elaine.benes@domainname.com",
-	"lead_source": [
-		"Cold Call",
-		"Existing Customer",
-		"Self Generated",
-		"Employee",
-		"Partner",
-		"Public Relations",
-		"Direct Mail",
-		"Conference",
-		"Trade Show",
-		"Website",
-		"Word Of Mouth",
-		"Email",
-		"Campaign",
-		"Other"
-	],
-	"phone": [{
-		"phoneId": 0,
-		"type": [
-			"mobile",
-			"land line"
-		],
-		"country_code": [469, 214, 976],
-		"phone_number": 1234567,
-		"phone_extension": 0
-
-	}],
-	"status": [
-		"converted",
-		"inactive",
-		"new"
-	],
-	"coporate_identity": [
-		"incorporatated"
-	],
-	"description": "Lorem ipsum dolor amet, adipiscing elit. Praesent vitae posuere ligula."
+	"task_type": ["Approval", "Ask For Referral", "Birthday Call", "Chat", "Create Proposal", "Create Spec Sample", "ESP Research", "Follow Up Email", "Follow Up Call", "Get Art File", "Get Tracking #", "Initial Call", "Leave Voice Mail", "Lunch", "Quote", "Referral Call", "Review Call", "Rush Order", "Sample", "Send Acknowledgement", "Send Catalogs", "Send Quote", "Send Sample", "Send Thank You Note", "Spec Sample", "Virtual Sample"
+	]
 }]
